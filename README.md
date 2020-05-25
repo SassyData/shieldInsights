@@ -1,6 +1,6 @@
 # shieldInsights
 
-  SHIELD https://www.shieldcollaborative.org is a cooperative of charitable organisations working to coordinate efforts to match PPE supply and demand in the UK during the Covid-19 outbreak. EWveryone working for and with SHIELD and these charities is a volunteer. 
+  SHIELD https://www.shieldcollaborative.org is a cooperative of charitable organisations working to coordinate efforts to match PPE supply and demand in the UK during the Covid-19 outbreak. Everyone working for and with SHIELD and these charities is a volunteer. 
   
 ### Insights
 
@@ -19,13 +19,13 @@ This is a repo to collate shared output and data sources relating to our work in
 
 - Either connect via commandline 
 - or, drag and drop output to the relevent folders
-(if you're unfamilliar with using github, checkout YouTube for intro videos)
+(if you're unfamilliar with using github, check out YouTube for intro videos)
 
 ### Contributors
 
 The repo is public and contributors are:
-- Alexmyc@gmail.com
-- Veersh4h@gmail.com
+- alexmyc@gmail.com
+- veersh4h@gmail.com
 - (me) tabssj@gmail.com
 
 
